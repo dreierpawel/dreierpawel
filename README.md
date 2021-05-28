@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dreierpawel
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning python
