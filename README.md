@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dreierpawel
-- 👀 I’m interested in ML
+- 👀 I’m interested in Architecture, DynamoBIM, ML
 - 🌱 I’m currently learning python
